@@ -1,0 +1,24 @@
+img {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 70px;
+    border: 20px solid red;
+}
+ 
+#white {
+    border: 20px solid white;
+    height: 140px;
+    width: 140px;
+    border-radius: 90px;
+
+}
+
+ 
+#inner {
+    border: 20px solid red;
+    width: 180px;
+    height: 180px;
+    border-radius: 110px;
+}
+
