@@ -1,0 +1,11 @@
+#third {  
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border: 20px solid yellow;
+}
+#second {
+    border: 20px solid blue;
+    height: 140px;
+    width: 140px;
+}
