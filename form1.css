@@ -1,0 +1,19 @@
+.bob {
+    height: 300px;
+    width: 200px;
+    border: 2px solid gray;
+    margin: auto;
+    margin-top: 50px;
+}
+h4 {
+    text-align: center;
+}
+
+input {
+  margin-bottom: 15px;
+  margin-left: 10px;
+}
+.bob > :nth-last-child(1) {
+    background-color: orange;  
+}
+

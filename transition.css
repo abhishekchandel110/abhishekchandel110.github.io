@@ -1,0 +1,12 @@
+button:hover {
+    background-color: tomato;
+   
+    padding: 50px;
+}
+
+button {
+    border-radius: 20px;
+    transition-property: pedding;
+    transition-duration: 5s;
+    transition-timing-function: 5s;
+}
