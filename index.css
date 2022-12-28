@@ -20,13 +20,42 @@ section {
 footer {    
     margin-left: 5%; 
 }
-.vogue {
-    border: 1px solid black;
-    width: 130px;
+#pop {
+    border: 2px solid black;
+    height: 100px;
+    background-color: black;
+    position: sticky;
+    top: 2px;
 }
-a:hover{
-    background-color: gray;
-    display: inline;
-    margin: 10px;
+#OP {
+    color: white;
+    display: inline-block;
+    
+    
     
 }
+.vogue {
+    border: 1px solid white;
+    width: 60px;
+    margin: 20px;
+    color: white;
+    
+}
+#bob {
+    float: right;
+    margin: 20px;
+}
+
+#obey {
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+    margin-left: 230px;
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+}
+
+
+
+
